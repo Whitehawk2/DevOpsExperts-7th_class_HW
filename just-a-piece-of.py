@@ -2,6 +2,8 @@
 
 print("Here's a piece of pie:")
 print("""
+        this is not, in fact, a pie. it's a cake.
+        you've been lied to.
                 ~                  ~
 
      *                   *                *       *
